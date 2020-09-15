@@ -36,24 +36,24 @@
     unist-util-remove "^2.0.0"
     unist-util-visit "^2.0.1"
 
-"@adobe/gatsby-source-github-file-contributors@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@adobe/gatsby-source-github-file-contributors/-/gatsby-source-github-file-contributors-0.1.1.tgz#6a4782e4f138132e28e3a2f0ad1c93b999c509ea"
-  integrity sha512-F69JmbQcHyuHw81YvL2oej/0WmCj98TsomP5e7T0l2d7HrKey10mWC6f50y3MMR9hbBIJytvNoFFHD8uI1EdSQ==
+"@adobe/gatsby-source-github-file-contributors@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@adobe/gatsby-source-github-file-contributors/-/gatsby-source-github-file-contributors-0.2.0.tgz#54c07d7c57d9180285982c3506d9043a5eab0ec6"
+  integrity sha512-9q+wJX6qPBmPyWOVrQw9kuA74H7Xm0R2eDRPs9Cl2e70UtYIFP7HXi835YVXo1lOu4bZ9tt7CtDbaOXmWQyHLQ==
   dependencies:
     globby "^11.0.1"
     graphql-fetch "^1.0.1"
 
-"@adobe/gatsby-theme-parliament@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@adobe/gatsby-theme-parliament/-/gatsby-theme-parliament-1.1.0.tgz#9ca3d94f520711722570c879be745a625a7b4ddb"
-  integrity sha512-LvEzmA99h/g89+iusVqa1RddpDMdhAaZe+F9ne6ZVTlJIYbx5bbYWv18W1ARXrZBxaC5GngvOyf2hjlHLvaK/g==
+"@adobe/gatsby-theme-parliament@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@adobe/gatsby-theme-parliament/-/gatsby-theme-parliament-1.2.1.tgz#277c2938811c8e1dc4a411d672f22b06d12c010f"
+  integrity sha512-dzZk40AKjtyG1JMSNhOuAnZGvRs9Uj1C7cd49m5g81g4Ts/owcnmLm/XiaV7IDoplHFTCDi6Jmdak8Z9jhZGaw==
   dependencies:
     "@adobe/focus-ring-polyfill" "^0.1.5"
     "@adobe/gatsby-add-launch-script" "^0.0.4"
     "@adobe/gatsby-remark-afm" "^0.8.1"
-    "@adobe/gatsby-source-github-file-contributors" "^0.1.1"
-    "@adobe/parliament-site-search-index" "^0.0.3"
+    "@adobe/gatsby-source-github-file-contributors" "^0.2.0"
+    "@adobe/parliament-site-search-index" "^0.0.4"
     "@adobe/parliament-ui-components" "^2.4.1"
     "@adobe/prism-adobe" "^1.0.0"
     "@adobe/react-spectrum" "^3.3.0"
@@ -99,10 +99,10 @@
     remark-external-links "^6.1.0"
     styled-components "^5.1.1"
 
-"@adobe/parliament-site-search-index@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@adobe/parliament-site-search-index/-/parliament-site-search-index-0.0.3.tgz#dc46890e50da5f1027696391f0acac50892dadf9"
-  integrity sha512-SLPU2LabbGgJsVSeuL753dYRRHfeP3QOdenYXlCA3kzXD3s3DqdBK+PmMnZYYpAy4AGdVp9KEsbHIiW3JekSsw==
+"@adobe/parliament-site-search-index@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@adobe/parliament-site-search-index/-/parliament-site-search-index-0.0.4.tgz#0bdf78a45877515b85c3ace556f5724ef4f7304c"
+  integrity sha512-Y3Rdh20f2BGQldwV9mXHNvrSha++vKCT1X6C/aiWodA2VK7hGqQUSp7C6hBzBTNT2fS5YFVO0HJBEPulmRboHQ==
   dependencies:
     elasticlunr "^0.9.5"
     graphql-type-json "^0.3.2"
