@@ -44,10 +44,10 @@
     globby "^11.0.1"
     graphql-fetch "^1.0.1"
 
-"@adobe/gatsby-theme-parliament@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@adobe/gatsby-theme-parliament/-/gatsby-theme-parliament-2.1.0.tgz#2e01b19858f0478697819ce3814bdcb5a2ee6afc"
-  integrity sha512-4ETw4hwkFTIHG/4c+q89ktHjcP6Cj7XT3z+AU+6MJwH7KMS+M96+PIvvoy/ssalvV8CI44vceyEOVwUDyWC6tg==
+"@adobe/gatsby-theme-parliament@^2.1.9":
+  version "2.1.9"
+  resolved "https://registry.yarnpkg.com/@adobe/gatsby-theme-parliament/-/gatsby-theme-parliament-2.1.9.tgz#05b3e1cb3df2037b2b4460c52ae6a11abe054a37"
+  integrity sha512-f780Ay4kV0qONVNgHwtWe5g4gxFF3PHEit8r0TR5i84AUswIAa5K3+iNTCeShCZUMNAGQpK7cw7n+Z+YBoQkmA==
   dependencies:
     "@adobe/focus-ring-polyfill" "^0.1.5"
     "@adobe/gatsby-add-launch-script" "^0.0.4"
@@ -74,7 +74,6 @@
     "@spectrum-css/popover" "^3.0.0-beta.3"
     "@spectrum-css/sidenav" "^3.0.0-beta.2"
     "@spectrum-css/tabs" "^3.0.0-beta.3"
-    "@spectrum-css/toast" "^3.0.0-beta.3"
     "@spectrum-css/tooltip" "^3.0.0-beta.2"
     "@spectrum-css/typography" "^2.1.3"
     "@spectrum-css/vars" "^2.3.0"
@@ -82,7 +81,6 @@
     "@spectrum-icons/workflow" "^3.1.0"
     classnames "^2.2.6"
     elasticlunr "^0.9.5"
-    gatsby-alias-imports "^1.0.4"
     gatsby-plugin-catch-links "^2.3.7"
     gatsby-plugin-emotion "^4.3.6"
     gatsby-plugin-layout "^1.3.9"
@@ -2967,11 +2965,6 @@
   version "3.0.0-beta.3"
   resolved "https://registry.yarnpkg.com/@spectrum-css/textfield/-/textfield-3.0.0-beta.3.tgz#251763260fedd38e256c8a225809b0ecdc70f68f"
   integrity sha512-ihTZKLfnUxBnlSGRH4xdSMwd23EkpunC69uUvVB2LGGw1QAcmUcBNdS9xz7PPSWFw4qkCRXzVVX9tLC/2fQFbQ==
-
-"@spectrum-css/toast@^3.0.0-beta.3":
-  version "3.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/toast/-/toast-3.0.0-beta.3.tgz#98eb1320062e299cf5a96fe1c59357073fbee6f4"
-  integrity sha512-W0akUneCrda9Gad12ehOUeOQEYD4ND/S3JAEFKaQyO/4TKK2+70tEBN50w+2cvvvSry6JgSWgRTiU4a/EGbMZg==
 
 "@spectrum-css/tooltip@^3.0.0-beta.2":
   version "3.0.0-beta.2"
@@ -7220,11 +7213,6 @@ functional-red-black-tree@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
-
-gatsby-alias-imports@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/gatsby-alias-imports/-/gatsby-alias-imports-1.0.4.tgz#09177ad05aa24f321813e713de5fd7aa2b8ec5b1"
-  integrity sha512-6ov7Qd/cKdEaqrABlPUNDXWHGn8HJpU/TGm0/htBAi4nSfFJWq6EEw9apzWHfR8IoVwjHExlX5wD7Y4qKjMV0w==
 
 gatsby-cli@^2.12.99:
   version "2.12.99"
