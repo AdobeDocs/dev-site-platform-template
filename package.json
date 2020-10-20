@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "gatsby-theme-parliament-platform",
+  "name": "dev-site-platform-template",
   "version": "0.0.1",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/gatsby-theme-parliament-platform"
+    "url": "https://github.com/AdobeDocs/dev-site-platform-template"
   },
   "author": {
     "name": "Stephan Ringel",
