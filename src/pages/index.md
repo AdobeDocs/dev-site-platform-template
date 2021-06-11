@@ -141,7 +141,7 @@ With the Cloud Content APIs, you can bring design work created in XD directly to
 
 
 
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="33%" />
 
 [Adobe I/O](https://adobe.io)
 
@@ -153,7 +153,7 @@ Rob Kleiman, July 8th 2020
 
 
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+<ResourceCard slots="link, image, heading, text" width="33%" />
 
 [Adobe I/O](https://adobe.io)
 
@@ -165,7 +165,7 @@ Nihil Gupta, July 24th 2020
 
 
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+<ResourceCard slots="link, image, heading, text" width="33%" />
 
 [Adobe I/O](https://adobe.io)
 
